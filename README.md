@@ -1,9 +1,13 @@
 # todo-app
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/status-Development-blue.svg)](https://github.com)
-
 タスク管理アプリケーション（学習用のため試作）
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+
 
 ## 概要
 
@@ -19,10 +23,11 @@
 
 ## 技術スタック
 
-- Frontend: HTML, CSS, TypeScript
-- Backend: Node.js
-- Database: MySQL(ローカル)
-- framwork: React
+
+- **Frontend:** HTML, CSS, TypeScript
+- **Backend:** Node.js + Express
+- **Database:** MySQL（ローカル）
+- **Framework:** React
 
 ## 使い方
 
